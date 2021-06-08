@@ -7,8 +7,8 @@ comments: false
 ---
 http://map.dostresamigoz.club
 {% capture images %}
-    http://map.dostresamigoz.clubhttp://map.dostresamigoz.club
+    http://161.35.13.161:8123/
 {% endcapture %}
-{% include gallery images=images caption="Screenshots ofmap" cols=2 %}
+{% include gallery images=images caption="Screenshots of map" cols=2 %}
 
 Contact for access
