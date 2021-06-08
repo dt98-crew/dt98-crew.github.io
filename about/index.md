@@ -5,13 +5,9 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-{% markdown %}
-[Map](http://map.dostresamigoz.club)
-{% endmarkdown %}
-
+http://map.dostresamigoz.club
 {% capture images %}
-
-    http://map.dostresamigoz.club
+    http://map.dostresamigoz.clubhttp://map.dostresamigoz.club
 {% endcapture %}
 {% include gallery images=images caption="Screenshots ofmap" cols=2 %}
 
