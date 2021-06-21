@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: Server Map
 tags: [Minecraft]
 date: 2021-01-01
