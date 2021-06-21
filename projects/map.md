@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: page
 title: DT98 Craft Map
 excerpt: "Minecraft Server Map"
 comments: false
