@@ -10,6 +10,9 @@ comments: false
 #### 1.17.1 Files `(Current Server Version)`
 - <a href="http://dostresamigoz.club/assets/OptiFine17.jar"> Optifine17.Jar</a>
 
+Resource Packs:
+- <a href="http://dostresamigoz.club/assets/Dokucraft-17-Light.zip"> DokuCraft Resource Pack - Light for 17.1</a> (experimental version, please report if you notice any bugs)
+
 Texture Packs:
 - <a href="http://dostresamigoz.club/assets/Vanilla_Additions.zip">Vanilla Additions</a>
   + <a href="https://planetminecraft.com/texture-pack/justtimm-s-vanilla-additions/">Source</a>
@@ -19,8 +22,10 @@ Texture Packs:
 
 #### 1.16.1 Files
 - <a href="http://dostresamigoz.club/assets/OptiFine16.jar"> Optifine16.Jar</a>
-- <a href="http://dostresamigoz.club/assets/Dokucraft-16-Light.zip"> DokuCraft Resource Pack - Light</a>
 - <a href="http://dostresamigoz.club/assets/BSL8.zip"> BSL Shaders</a>
+
+Resource Packs:
+- <a href="http://dostresamigoz.club/assets/Dokucraft-16-Light.zip"> DokuCraft Resource Pack - Light for 16.1</a>
 
 
 
