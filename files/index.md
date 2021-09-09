@@ -11,10 +11,8 @@ comments: false
 - <a href="http://dostresamigoz.club/assets/OptiFine17.jar"> Optifine17.Jar</a>
 
 Resource Packs:
-- <a href="http://dostresamigoz.club/assets/Dokucraft-17-Light.zip"> DokuCraft Resource Pack - Light for 17.1</a> (experimental version, please report if you notice any bugs)
-
-Texture Packs:
-- <a href="http://dostresamigoz.club/assets/Vanilla_Additions.zip">Vanilla Additions</a>
+- <a href="http://dostresamigoz.club/assets/Dokucraft-17-Light.zip"> DokuCraft Resource Pack - Light for 17.1</a> (Experimental version, please report if you notice any bugs)
+- <a href="http://dostresamigoz.club/assets/Vanilla_Additions.zip">Vanilla Additions for 17.1</a> (Don't run this at the same time as DokuCraft)
   + <a href="https://planetminecraft.com/texture-pack/justtimm-s-vanilla-additions/">Source</a>
 - <a href="http://dostresamigoz.club/assets/bettersheep.zip">Better Sheep</a>
   + <a href="https://www.planetminecraft.com/texture-pack/bettersheep-resource-pack-requires-optifine/">Source</a>
