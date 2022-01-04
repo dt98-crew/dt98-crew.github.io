@@ -4,6 +4,20 @@ title: "Essential Files"
 excerpt: "Files to share with the crew"
 comments: false
 ---
+## Forza
+- <a href="http://dostresamigoz.club/assets/FH5.zip">FH5.zip</a>
+
+## Pixelmon
+First Run:
+- <a href="http://dostresamigoz.club/assets/forge-installer.jar">forge-installer.jar</a>
+
+Run MC once, then move these to the mods folder:
+- <a href="https://www.curseforge.com/minecraft/mc-mods/pixelmon/download/3545320">Pixelmon-1.12.2-8.3.6-universal.jar.jar</a>
+- <a href="http://dostresamigoz.club/assets/OverpoweredInventory.jar">OverpoweredInventory.jar</a>
+- <a href="http://dostresamigoz.club/assets/BiomesOPlenty.jar">BiomesOPlenty.jar</a>
+
+Resource Packs:
+- <a href="http://dostresamigoz.club/assets/FireLeaf.zip">FireLeaf.zip</a>
 
 ## Minecraft
 
@@ -17,15 +31,12 @@ Resource Packs:
 - <a href="http://dostresamigoz.club/assets/bettersheep.zip">Better Sheep</a>
   + <a href="https://www.planetminecraft.com/texture-pack/bettersheep-resource-pack-requires-optifine/">Source</a>
 
-
 #### 1.16.1 Files
 - <a href="http://dostresamigoz.club/assets/OptiFine16.jar"> Optifine16.Jar</a>
 - <a href="http://dostresamigoz.club/assets/BSL8.zip"> BSL Shaders</a>
 
 Resource Packs:
 - <a href="http://dostresamigoz.club/assets/Dokucraft-16-Light.zip"> DokuCraft Resource Pack - Light for 16.1</a>
-
-
 
 ## Grand Theft Auto
 #### Extras
