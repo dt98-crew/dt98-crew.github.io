@@ -23,14 +23,14 @@ body {
 }
 
 .round_div {
-    border-radius: 60%;
+    border-radius: 5%;
     width: 100%;
     height: 145px;
     background:#3B4CCA ;
     text-align:center;
     overflow:display;
     min-heigh:150px;
-    border:4px solid #CC0000;
+    border:5px solid #CC0000;
 }
 .logo {
   font-size:32px;
