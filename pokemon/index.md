@@ -42,12 +42,18 @@ body {
   color:#FF0000;
 }
 .map_button{
+  border-radius: 25%;
   font-family: PokemonSolid;
   background-color:#CC0000;
   color:#FFDE00;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+}
+.map_button:hover{
+  color:#CC0000;
+  background-color:#FFDE00;
+  cursor: pointer;
 }
 .buttons {
     margin-top:-1%;
@@ -59,10 +65,10 @@ body {
 <div class="round_div">
 <span class="logo">Dos Tres Amigoz</span>
 <p class="buttons">
-<button class="map_button">2D</button>
-<button class="map_button">3D</button>
-<button class="map_button">UltraSpace</button>
-<button class="map_button" onclick="window.open(http://dostresamigoz.club/trainers/','_blank')">Trainers</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=flat&zoom=0&x=900&y=64&z=-1816';">2D</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=surface&zoom=1&x=235&y=64&z=-2126';">3D</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=DIM72&mapname=flat&zoom=2&x=525&y=64&z=-530';">UltraSpace</button>
+<button class="map_button" onclick="window.open('http://dostresamigoz.club/trainers/','_blank')">Trainers</button>
 <button class="map_button" onclick="window.open('http://dostresamigoz.club/gyms','_blank')">Gyms</button>
 <button class="map_button" onclick="window.open('https://pixelmonmod.com/wiki/Available_Pok%C3%A9mon','_blank')">Wiki</button>
 
@@ -70,5 +76,5 @@ body {
 
 
 
-  <iframe style="position:fixed; top:150px; left:0; bottom:0; right:0; width:100%; height:80%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" src="http://161.35.13.161:8123/?worldname=pixelmon_world&mapname=surface&zoom=4&x=417&y=64&z=-44#" frameborder="0"> </iframe>
+  <iframe id="main_map" style="position:fixed; top:150px; left:0; bottom:0; right:0; width:100%; height:90%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" src="http://161.35.13.161:8123/?worldname=world&mapname=flat&zoom=0&x=900&y=64&z=-1816" frameborder="0"> </iframe>
 </div>
