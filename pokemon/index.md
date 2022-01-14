@@ -67,6 +67,7 @@ body {
 <p class="buttons">
 <button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=flat&zoom=0&x=900&y=64&z=-1816';">2D</button>
 <button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=surface&zoom=1&x=235&y=64&z=-2126';">3D</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=DIM-1&mapname=flat&zoom=3&x=-25&y=64&z=-292';">Nether</button>
 <button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=DIM72&mapname=flat&zoom=2&x=525&y=64&z=-530';">UltraSpace</button>
 <button class="map_button" onclick="window.open('http://dostresamigoz.club/trainers/','_blank')">Trainers</button>
 <button class="map_button" onclick="window.open('http://dostresamigoz.club/gyms','_blank')">Gyms</button>
