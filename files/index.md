@@ -4,39 +4,17 @@ title: "Essential Files"
 excerpt: "Files to share with the crew"
 comments: false
 ---
-## Forza
-- <a href="http://dostresamigoz.club/assets/FH5.zip">FH5.zip</a>
-
-## Pixelmon
-First Run:
-- <a href="http://dostresamigoz.club/assets/forge-installer.jar">forge-installer.jar</a>
-
-Run MC once, then move these to the mods folder:
-- <a href="https://www.curseforge.com/minecraft/mc-mods/pixelmon/download/3545320">Pixelmon-1.12.2-8.3.6-universal.jar.jar</a>
-- <a href="http://dostresamigoz.club/assets/OverpoweredInventory.jar">OverpoweredInventory.jar</a>
-- <a href="http://dostresamigoz.club/assets/BiomesOPlenty.jar">BiomesOPlenty.jar</a>
-
-Resource Packs:
-- <a href="http://dostresamigoz.club/assets/FireLeaf.zip">FireLeaf.zip</a>
-
 ## Minecraft
 
-#### 1.17.1 Files `(Current Server Version)`
-- <a href="http://dostresamigoz.club/assets/OptiFine17.jar"> Optifine17.Jar</a>
-
+#### 1.18.2 Files `(Current Server Version)`
 Resource Packs:
-- <a href="http://dostresamigoz.club/assets/Dokucraft-17-Light.zip"> DokuCraft Resource Pack - Light for 17.1</a> (Experimental version, please report if you notice any bugs)
-- <a href="http://dostresamigoz.club/assets/Vanilla_Additions.zip">Vanilla Additions for 17.1</a> (Don't run this at the same time as DokuCraft)
-  + <a href="https://planetminecraft.com/texture-pack/justtimm-s-vanilla-additions/">Source</a>
-- <a href="http://dostresamigoz.club/assets/bettersheep.zip">Better Sheep</a>
-  + <a href="https://www.planetminecraft.com/texture-pack/bettersheep-resource-pack-requires-optifine/">Source</a>
+- <a href="http://dostresamigoz.club/assets/1.18.2-Dokucraft.zip">DokuCraft</a>
 
-#### 1.16.1 Files
-- <a href="http://dostresamigoz.club/assets/OptiFine16.jar"> Optifine16.Jar</a>
-- <a href="http://dostresamigoz.club/assets/BSL8.zip"> BSL Shaders</a>
+Graphics Mod:
+- <a href="http://dostresamigoz.club/assets/OptiFine.jar"> Optifine </a>
 
-Resource Packs:
-- <a href="http://dostresamigoz.club/assets/Dokucraft-16-Light.zip"> DokuCraft Resource Pack - Light for 16.1</a>
+## Forza
+- <a href="http://dostresamigoz.club/assets/FH5.zip">FH5.zip</a>
 
 ## Grand Theft Auto
 #### Extras
