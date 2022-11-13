@@ -6,16 +6,13 @@ comments: false
 ---
 ## Minecraft
 
-#### 1.18.2 Files `(Current Server Version)`
+#### 1.19.2 Files `(Current Server Version)`
 Resource Packs:
-- <a href="http://dostresamigoz.club/assets/1.18.2-Dokucraft.zip">DokuCraft</a>
+- <a href="http://dostresamigoz.club/assets/Dokucraft-light.zip">DokuCraft light for 1.19.2</a> [last updated 11/13] (experimental)
 
 Graphics Mod:
-- <a href="http://dostresamigoz.club/assets/OptiFine.jar"> Optifine </a>
-
-## Forza
-- <a href="http://dostresamigoz.club/assets/FH5.zip">FH5.zip</a>
+- <a href="http://dostresamigoz.club/assets/OptiFine.jar"> Optifine for 1.19.2</a>
 
 ## Grand Theft Auto
 #### Extras
-- <a href="http://dostresamigoz.club/assets/kiddons.zip">Kiddons 9.0</a>
+- <a href="http://dostresamigoz.club/assets/kiddons.zip">Kiddons 9.4</a> [last updated 11/13]
