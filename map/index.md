@@ -5,7 +5,7 @@ tags: [Minecraft]
 date: 2021-01-01
 comments: false
 ---
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="allow-insecure-requests">
 <style>
 @font-face {
     font-family: CraftFont;
