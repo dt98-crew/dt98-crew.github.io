@@ -59,14 +59,14 @@ body {
 <br>
 <span class="logo">Dos Tres Amigoz</span>
 <p class="buttons">
-<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=flat&zoom=2&x=14&y=64&z=391';">🧭 2D </button>
-<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=surface&zoom=3&x=-126&y=64&z=206';">🌎 3D </button>
-<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=spawn&zoom=3&x=-198&y=64&z=240';">🔦 Mob Spawn</button>
-<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world&mapname=cave&zoom=4&x=-239&y=64&z=300';">⛏ Caves</button>
-<button class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world_nether&mapname=flat&zoom=4&x=67&y=64&z=0';">🌋 The Nether</button>
-<button style="display:none;" class="map_button" onclick="document.getElementById('main_map').src = 'http://161.35.13.161:8123/?worldname=world_the_end&mapname=flat&zoom=4&x=0&y=64&z=0';">🎇 The End</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world&mapname=flat&zoom=2&x=14&y=64&z=391';">🧭 2D </button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world&mapname=surface&zoom=3&x=-126&y=64&z=206';">🌎 3D </button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world&mapname=spawn&zoom=3&x=-198&y=64&z=240';">🔦 Mob Spawn</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world&mapname=cave&zoom=4&x=-239&y=64&z=300';">⛏ Caves</button>
+<button class="map_button" onclick="document.getElementById('main_map').src = 'https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world_nether&mapname=flat&zoom=4&x=67&y=64&z=0';">🌋 The Nether</button>
+<button style="display:none;" class="map_button" onclick="document.getElementById('main_map').src = 'https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world_the_end&mapname=flat&zoom=4&x=0&y=64&z=0';">🎇 The End</button>
 <button class="map_button" onclick="window.open('https://minecraft.fandom.com/wiki/Item?so=search#List_of_items','_blank')">📚 Minecraft Wiki </button>
   </p>
 </center>
-  <iframe id="main_map" style="position:fixed; left:0; top:100px; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" src="http://161.35.13.161:8123/?worldname=world&mapname=surface&zoom=3&x=-126&y=64&z=206" frameborder="0"> </iframe>
+  <iframe id="main_map" style="position:fixed; left:0; top:100px; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" src="https://www.google.ie/gwt/x?u=http://161.35.13.161:8123/?worldname=world&mapname=surface&zoom=3&x=-126&y=64&z=206" frameborder="0"> </iframe>
 </div>
