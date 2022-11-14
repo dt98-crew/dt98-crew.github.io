@@ -21,24 +21,24 @@ comments: false
 - <a href="http://dostresamigoz.club/assets/Jicklus+1.19.zip">Jicklus for 1.19</a>
 
 #### Optional Enhancements
-- <a href="http://dostresamigoz.club/assets/strawberries.zip"> Replace sweet berries with strawberries </a>
+- <a href="http://dostresamigoz.club/assets/strawberries.zip"> Replace Sweet Berries -> Strawberries </a>
+- <a href="http://dostresamigoz.club/assets/tomatoes.zip"> Replace Beetroot -> Tomatoes </a>
+- <a href="http://dostresamigoz.club/assets/3d-blast-furnace.zip.zip">Better 3D blast furnace</a>
 - <a href="http://dostresamigoz.club/assets/Better_Dogs-Shiba_Inu.zip">Better Dogs - Shiba Inu [<b>Requires Optifine!!</b>] </a>
 - <a href="http://dostresamigoz.club/assets/Better_Cats.zip">Better Cats[<b>Requires Optifine!!</b>] </a>
 - <a href="http://dostresamigoz.club/assets/Better_Farm_Animals.zip">Better Farm Animals [<b>Requires Optifine!!</b>] </a>
 - <a href="http://dostresamigoz.club/assets/HealthBars.zip">Health bars [<b>Requires Optifine!!</b>] </a>
 
 #### Optional Weapon Enhancements
-- <a href="http://dostresamigoz.club/assets/Musket_and_Flintlock.zip"> </a>
+- <a href="http://dostresamigoz.club/assets/Musket_and_Flintlock.zip">Musket and Flintlock</a>
   - Bow -> Flintlock
   - Crossbow -> Musket
 
 <b><i> OR </i></b>
 
-- <a href="http://dostresamigoz.club/assets/WWII.zip"> </a>
+- <a href="http://dostresamigoz.club/assets/WWII.zip">WWII Guns</a>
   - Crossbow -> Karabiner 98k
   - Bow -> Walther P38
-
-
 
 # Grand Theft Auto
 #### Extras
