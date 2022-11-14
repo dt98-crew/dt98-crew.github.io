@@ -23,7 +23,7 @@ comments: false
 #### Optional Enhancements
 - <a href="http://dostresamigoz.club/assets/strawberries.zip"> Replace Sweet Berries -> Strawberries </a>
 - <a href="http://dostresamigoz.club/assets/tomatoes.zip"> Replace Beetroot -> Tomatoes </a>
-- <a href="http://dostresamigoz.club/assets/3d-blast-furnace.zip.zip">Better 3D blast furnace</a>
+- <a href="http://dostresamigoz.club/assets/3d-blast-furnace.zip">Better 3D blast furnace</a>
 - <a href="http://dostresamigoz.club/assets/Better_Dogs-Shiba_Inu.zip">Better Dogs - Shiba Inu [<b>Requires Optifine!!</b>] </a>
 - <a href="http://dostresamigoz.club/assets/Better_Cats.zip">Better Cats[<b>Requires Optifine!!</b>] </a>
 - <a href="http://dostresamigoz.club/assets/Better_Farm_Animals.zip">Better Farm Animals [<b>Requires Optifine!!</b>] </a>
