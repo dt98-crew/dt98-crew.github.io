@@ -7,12 +7,11 @@ comments: false
 # Minecraft
 
 #### Info
-- Current server version: 1.19.2
-  - all files are for 1.19.2
+- Current server version: <b>1.19.2</b> (all files are for 1.19.2)
 
 ### Graphics Mod:
   - <a href="http://dostresamigoz.club/assets/OptiFine.jar"> Optifine for 1.19.2</a>
-  
+
 ###  Resource Packs
 #### Recommended all-in-one packs
 - <a href="http://dostresamigoz.club/assets/Dokucraft-light.zip">DokuCraft light for 1.19.2</a> [last updated 11/13] (experimental)
